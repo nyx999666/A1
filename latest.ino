@@ -11,9 +11,7 @@ const char* password = "12345678";
 // ========== MQTT配置 ==========
 const char* mqttServer = "bemfa.com";
 const int mqttPort = 9501;
-const char* mqttUser = "";
-const char* mqttPassword = "";
-const char* clientId = "2ca29385e1e348b7aa0144c1197cb08a";
+const char* clientId = " ";
 
 // ========== MQTT主题 ==========
 const char* topicMic = "mic004";      // 麦克风传感器
