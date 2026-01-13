@@ -17,9 +17,10 @@ ESP8266 智能宠物照护系统
 设备上有一个触摸开关，摸一下开灯，再摸一下关灯 。
 5. 手机监控：
 通过 WiFi 连接到云平台，可以在手机端pc端看到当前的光照、声音和宠物活动状态 。
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1343" height="1007" alt="image" src="https://github.com/user-attachments/assets/f02faecd-d240-41c7-8c0b-6b093a5ebed6" />
+<img width="852" height="951" alt="image" src="https://github.com/user-attachments/assets/960f9e16-32f6-4ca1-b854-3b3527c559f8" />
+<img width="1917" height="951" alt="image" src="https://github.com/user-attachments/assets/225631e4-1582-4a5b-9b9b-505adebe4bf3" />
+
 
 
 
@@ -36,7 +37,8 @@ BH1750 光照传感器（测亮度）
 触摸传感器（手动开关）
 
 舵机 （模拟喂食口的闸门）
-![Uploading a7f1028d83ecd1551940709777687e03.png…]()
+<img width="1083" height="543" alt="a7f1028d83ecd1551940709777687e03" src="https://github.com/user-attachments/assets/ba91a508-d632-4ec2-8f1e-59fa351c5518" />
+
 
 
 
